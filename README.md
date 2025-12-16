@@ -1,4 +1,4 @@
-An AI-powered SaaS healthcare application that:
+An AI-powered SaaS healthcare application deployed on AWS that:
 
 - Takes doctor's consultation notes as input
 - Generates professional summaries for medical records
